@@ -1,0 +1,29 @@
+[
+  {
+    "type": "starred",
+    "repository": {
+      "name": "freeCodeCamp",
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "description": "Learn to code for free with thousands of interactive lessons.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+    }
+  },
+  {
+    "type": "starred",
+    "repository": {
+      "name": "Python",
+      "full_name": "TheAlgorithms/Python",
+      "description": "All algorithms implemented in Python.",
+      "url": "https://github.com/TheAlgorithms/Python"
+    }
+  },
+  {
+    "type": "starred",
+    "repository": {
+      "name": "github-readme-stats",
+      "full_name": "anuraghazra/github-readme-stats",
+      "description": "Dynamically generated GitHub stats for your readmes.",
+      "url": "https://github.com/anuraghazra/github-readme-stats"
+    }
+  }
+]
